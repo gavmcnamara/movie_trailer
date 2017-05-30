@@ -1,6 +1,7 @@
-import fresh_tomatoes
-import media
+import fresh_tomatoes # Used to create html file from function open_movies_page 
+import media # Used to get access to class Movies
 
+# This section is accessing the module media.py and using the class Movies to create instances of each movie of your choosing
 toy_story = media.Movie("Toy Story", "A story of a boy and his toys that come to life",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
@@ -21,9 +22,9 @@ three_hundred = media.Movie("300", "This is Sparta!", "https://vignette4.wikia.n
                             "https://www.youtube.com/watch?v=UrIbxk7idYA")
                             
 
-#lion_king.show_trailer()
-movies = [toy_story, avatar, lion_king, pulp_fiction, forgetting_sarah_marshall, three_hundred ]
-#fresh_tomatoes.open_movies_page(movies)                       
-#print(media.Movie.valid_ratings)
-print(media.Movie.__module__)
-print(media.Movie.__name__)
+# This creates an array for all the movies and their instances so it can generate the html page
+movies = [toy_story, avatar, lion_king, pulp_fiction, forgetting_sarah_marshall, three_hundred ] 
+
+
+#fresh_tomatoes.open_movies_page(movies) will generate the html page for your movie website                       
+
