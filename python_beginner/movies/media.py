@@ -8,8 +8,6 @@ class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image,
                           trailer_youtube):
         
-        """ This function helps define all the instances we want to include for our movies"""
-        
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
