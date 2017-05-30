@@ -52,7 +52,7 @@ This project uses a module called fresh_tomatoes.py. This module is used for gen
 # Contibutors
 This project was inspired from ideas that udacity's program foudations with python provided.They had helped with my understanding of the project and supplied the tools for myself to create my own movie trailer project
 
-Udacity also provided the fresh_tomatoes.py code that was used to generate the fresh_tomatoes.html page  
+Udacity also provided the fresh_tomatoes.py code that was used to generate the fresh_tomatoes.html page. It can also be accessed from the repository https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py 
 
 
 License
