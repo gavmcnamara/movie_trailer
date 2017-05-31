@@ -9,8 +9,8 @@
 
 ### To Run project out of your Terminal:
   - Download file (python_beginner) onto your computer
-  - Go into your terminal and locate the file by using: cd python_beginner. ex) if the file is in your downloads, make sure you're in the downloads folder in the terminal by using: cd Downloads, then proceed to cd python_beginner.
-  - once you have located the python_beginner you will run the application with the command: python entertainment_center.py
+  - Go into your terminal and locate the file by using: cd python_beginner. ex) if the file is in your downloads, make sure you're in the downloads folder in the terminal by using: cd Downloads, then proceed to cd python_beginner, then cd movies to be in the right folder.
+  - once you have located the movies folder you will run the application with the command: python entertainment_center.py
   
 
 ### To view projects code:
