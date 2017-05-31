@@ -7,6 +7,12 @@
   - inside of movies foler there is fresh_tomatoes.html
   - open fresh_tomatoes.html in webbrowser to see the final outcome
 
+### To Run project out of your Terminal:
+  - Download file (python_beginner) onto your computer
+  - Go into your terminal and locate the file by using: cd python_beginner. ex) if the file is in your downloads, make sure you're in the downloads folder in the terminal by using: cd Downloads, then proceed to cd python_beginner.
+  - once you have located the python_beginner you will run the application with the command: python entertainment_center.py
+  
+
 ### To view projects code:
 
   - Download zip file (movie) or go to https://github.com/gavmcnamara/movie_trailer and download or clone repositories
